@@ -1,0 +1,6 @@
+# Download and extract the installer
+curl -O https://mirror.cachyos.org/cachyos-repo.tar.xz
+tar xvf cachyos-repo.tar.xz && cd cachyos-repo
+
+# Run the automated installer
+sudo ./cachyos-repo.sh
