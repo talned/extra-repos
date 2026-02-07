@@ -52,11 +52,11 @@ The `cachyos-setup` script is designed for setting up CachyOS.
 1. Clone the repository:
    ```bash
    git clone https://github.com/talned/extra-repos.git
+   cd extra-repos
    ```
 
 2. Run the script:
    ```bash
-   cd extra-repos
    bash cachyos-setup
    ```
 
