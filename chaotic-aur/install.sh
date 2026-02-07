@@ -10,5 +10,5 @@ sudo tee -a /etc/pacman.conf << 'EOF'
 Include = /etc/pacman.d/chaotic-mirrorlist
 EOF
 
-sudo pacman -Syyu
+sudo pacman -Syy
 
