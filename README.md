@@ -26,7 +26,7 @@ Before using the scripts, ensure you have the necessary permissions and a compat
 
 ## Chaotic AUR Installation
 
-The `chaotic-aur/install.sh` script automatically installs the Chaotic AUR repository on your system.
+The `chaotic-setup` script automatically installs the Chaotic AUR repository on your system.
 
 ### Steps:
 1. Clone the repository:
@@ -35,14 +35,9 @@ The `chaotic-aur/install.sh` script automatically installs the Chaotic AUR repos
    cd extra-repos
    ```
 
-2. Navigate to the `chaotic-aur` directory:
+2. Run the `install.sh` script:
    ```bash
-   cd chaotic-aur
-   ```
-
-3. Run the `install.sh` script:
-   ```bash
-   bash install.sh
+   bash chaotic-setup
    ```
 
 This script will configure your system to use the Chaotic AUR repository for package management.
