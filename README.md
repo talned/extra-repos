@@ -68,5 +68,16 @@ The `cachyos-setup` script is designed for setting up CachyOS.
 This script will configure your system to use CachyOS.
 
 
+---
+
+## Keeping Your System Updated
+
+It is essential to regularly update your system to receive the latest patches and features. Follow the guidelines provided below to ensure your system stays up-to-date:
+
+- For **CachyOS**, refer to its repository: [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos#cachyos-repositories)
+- For **Chaotic AUR**, see the official documentation: [Chaotic AUR Docs](https://aur.chaotic.cx/docs)
+
+---
+
 
 Enjoy managing your packages with ease!
