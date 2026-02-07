@@ -67,12 +67,6 @@ The `cachyos-setup` script is designed for setting up CachyOS.
 
 This script will configure your system to use CachyOS.
 
----
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 Enjoy managing your packages with ease!
