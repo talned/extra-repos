@@ -32,7 +32,7 @@ Before using the scripts, ensure you have the necessary permissions and a compat
    cd extra-repos
    ```
 
-## Chaotic AUR Installation
+#### Chaotic AUR Installation
 
 The `chaotic-setup` script automatically installs the Chaotic AUR repository on your system.
 
@@ -45,11 +45,9 @@ This script will configure your system to use the Chaotic AUR repository for pac
 
 ---
 
-## CachyOS Setup
+#### CachyOS Setup
 
 The `cachyos-setup` script is designed for setting up CachyOS.
-
-### Steps:
 
 3. Run the script:
    ```bash
