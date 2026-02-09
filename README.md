@@ -36,14 +36,12 @@ Before using the scripts, ensure you have the necessary permissions and a compat
 
 The `chaotic-setup` script automatically installs the Chaotic AUR repository on your system.
 
-2. Run the `install.sh` script:
+2. Run the script:
    ```bash
    bash chaotic-setup
    ```
 
 This script will configure your system to use the Chaotic AUR repository for package management.
-
----
 
 #### CachyOS Setup
 
