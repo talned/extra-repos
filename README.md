@@ -24,16 +24,17 @@ Before using the scripts, ensure you have the necessary permissions and a compat
 
 ---
 
-## Chaotic AUR Installation
-
-The `chaotic-setup` script automatically installs the Chaotic AUR repository on your system.
-
 ### Steps:
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/talned/extra-repos.git
    cd extra-repos
    ```
+
+## Chaotic AUR Installation
+
+The `chaotic-setup` script automatically installs the Chaotic AUR repository on your system.
 
 2. Run the `install.sh` script:
    ```bash
@@ -49,13 +50,8 @@ This script will configure your system to use the Chaotic AUR repository for pac
 The `cachyos-setup` script is designed for setting up CachyOS.
 
 ### Steps:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/talned/extra-repos.git
-   cd extra-repos
-   ```
 
-2. Run the script:
+3. Run the script:
    ```bash
    bash cachyos-setup
    ```
