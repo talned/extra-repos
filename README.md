@@ -56,7 +56,7 @@ The `cachyos-setup` script is designed for setting up CachyOS.
    bash cachyos-setup
    ```
 
-This script will configure your system to use CachyOS.
+This script will configure your system to use CachyOS Repos.
 
 
 ---
