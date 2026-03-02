@@ -1,4 +1,4 @@
-# Extra Repositories Manager
+# Extra Repositories
 
 This repository provides utility scripts to set up and use the Chaotic AUR repository and CachyOS setup scripts for your Linux system. Follow the instructions below to get started.
 
@@ -8,6 +8,7 @@ This repository provides utility scripts to set up and use the Chaotic AUR repos
 - [Getting Started](#getting-started)
 - [Chaotic AUR Installation](#chaotic-aur-installation)
 - [CachyOS Setup](#cachyos-setup)
+- [Xlibre setup](#xlibre-setup)
 - [License](#license)
 
 ---
