@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 # Download and extract the installer
 curl -O https://mirror.cachyos.org/cachyos-repo.tar.xz
 tar xvf cachyos-repo.tar.xz && cd cachyos-repo
