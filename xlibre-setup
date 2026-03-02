@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+sudo tee -a /etc/pacman.conf << 'EOF'
+
+[xlibre]
+Server = https://x11libre.net/repo/arch_based/x86_64
+EOF
+
