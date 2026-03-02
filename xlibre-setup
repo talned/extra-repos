@@ -1,5 +1,9 @@
 #!/usr/bin/env bash
 
+sudo pacman-key --recv-keys 73580DE2EDDFA6D6
+sudo pacman-key --finger 73580DE2EDDFA6D6
+sudo pacman-key --lsign-key 73580DE2EDDFA6D6
+
 sudo tee -a /etc/pacman.conf << 'EOF'
 
 [xlibre]
