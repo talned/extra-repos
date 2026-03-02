@@ -54,6 +54,16 @@ The `cachyos-setup` script is designed for setting up CachyOS.
 
 This script will configure your system to use CachyOS Repos.
 
+#### Xlibre setup
+
+The `xlibre-setup` script is designed to add the xlibre binary packages to arch linx
+
+4. Run the script:
+   ```bash
+   bash xlibre-setup
+   ```
+
+this script will configure your pacman to add the xlibre database so you can download the packages.
 
 ---
 
