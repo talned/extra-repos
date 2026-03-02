@@ -73,6 +73,7 @@ It is essential to regularly update your system to receive the latest patches an
 
 - For **CachyOS**, refer to its repository: [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos#cachyos-repositories)
 - For **Chaotic AUR**, see the official documentation: [Chaotic AUR Docs](https://aur.chaotic.cx/docs)
+- For **Xlibre**, refer to its README file: [Xlibre README](https://x11libre.net/repo/arch_based/x86_64/README.html)
 
 ---
 
