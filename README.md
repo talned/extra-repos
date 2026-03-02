@@ -16,11 +16,9 @@ This repository provides utility scripts to set up and use the Chaotic AUR repos
 
 Before using the scripts, ensure you have the necessary permissions and a compatible Linux distribution (e.g., Arch-based distros).
 
-### Prerequisites
+### Prerequisite
 
-- A terminal application
-- `bash` shell installed
-- Internet access
+- Arch Linux or Arch Based Distro
 
 ---
 
