@@ -9,7 +9,6 @@ This repository provides utility scripts to set up and use the Chaotic AUR repos
 - [Chaotic AUR Installation](#chaotic-aur-installation)
 - [CachyOS Setup](#cachyos-setup)
 - [Xlibre setup](#xlibre-setup)
-- [License](#license)
 
 ---
 
