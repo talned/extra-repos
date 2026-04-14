@@ -36,7 +36,7 @@ The `chaotic-setup` script automatically installs the Chaotic AUR repository on 
 
 2. Run the script:
    ```bash
-   bash chaotic-setup
+   ./chaotic-setup
    ```
 
 This script will configure your system to use the Chaotic AUR repository for package management.
@@ -47,7 +47,7 @@ The `cachyos-setup` script is designed for setting up CachyOS.
 
 3. Run the script:
    ```bash
-   bash cachyos-setup
+   ./cachyos-setup
    ```
 
 This script will configure your system to use CachyOS Repos.
@@ -58,7 +58,7 @@ The `xlibre-setup` script is designed to add the xlibre binary packages to arch 
 
 4. Run the script:
    ```bash
-   bash xlibre-setup
+   ./xlibre-setup
    ```
 
 this script will configure your pacman to add the xlibre database so you can download the packages.
